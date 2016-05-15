@@ -1,0 +1,2 @@
+logging buffer 10000
+
